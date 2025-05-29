@@ -5,7 +5,7 @@ then i write a query using  WHERE,ORDER BY,GROUP BY clauses to get top 5 most or
 ![image alt](https://github.com/divyaprabha07/-pizza-data-sql/blob/cfaca035e53c843b0e4abcd81684fb82d87532f5/Screenshot%20(6).png)
 then i create one table (pizza_info) after joined to pizza dataset.i am using INEER,RIGHT,LEFT joins.
 
-![Screenshot (7)](https://github.com/user-attachments/assets/f78b6816-c967-4165-b26b-9a1ae14e3402)
+![Screenshot (8)](https://github.com/user-attachments/assets/f78b6816-c967-4165-b26b-9a1ae14e3402)
 
 
 i write a subquery to  Find pizzas that sold more than the average total orders.
